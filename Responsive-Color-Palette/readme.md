@@ -17,6 +17,7 @@ A simple and responsive webpage displaying various Bootstrap color classes in ac
 
 This project demonstrates a **color palette** with different Bootstrap background colors like primary, secondary, success, warning, and more. Each color block adjusts responsively based on screen size.
 
+
 ---
 
 ## 🛠️ Tech Stack
