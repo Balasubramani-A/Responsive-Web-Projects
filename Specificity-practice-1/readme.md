@@ -30,5 +30,6 @@ This profile page helped me understand how CSS styles are applied and resolved i
 
 ## 🔗 Live Demo
 
-[View Live Project](#) <!-- Replace with your GitHub Pages or live URL -->
+![Screenshot 2025-04-16 171854](https://github.com/user-attachments/assets/8b39e14c-ea86-4d7f-b392-694e3dbc5799)
+
 
