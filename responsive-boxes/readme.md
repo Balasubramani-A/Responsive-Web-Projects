@@ -9,7 +9,7 @@ This simple webpage demonstrates how to build a responsive layout using Bootstra
 - Building **responsive layouts** using Bootstrap's grid classes (`col-`, `col-sm-`, `col-md-`, etc.)
 - Using **Bootstrap utility classes** like `mb-3` and `bg-primary`
 - Basic HTML structure and **custom CSS styling**
-
+- How to adjust sizes based on screen size (Example: Small, Medium, Large etc)
 ---
 
 ## 🧠 Project Summary
