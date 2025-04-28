@@ -36,8 +36,7 @@ A fully responsive landing page designed for a Virtual Reality company. This pro
 
 | Desktop View | Mobile View |
 | :---: | :---: |
-| ![Screenshot 2025-04-28 154209](https://github.com/user-attachments/assets/568fa697-6ba1-491d-9109-e4db8ced9bd4)
- | ![Screenshot 2025-04-28 154234](https://github.com/user-attachments/assets/b1815e47-7429-4443-a975-a3461a18c99f)| 
+| ![Screenshot 2025-04-28 154209](https://github.com/user-attachments/assets/568fa697-6ba1-491d-9109-e4db8ced9bd4)| ![Screenshot 2025-04-28 154234](https://github.com/user-attachments/assets/b1815e47-7429-4443-a975-a3461a18c99f)| 
 
 
 ---
