@@ -37,8 +37,7 @@ A fully responsive website designed for a food delivery service. This project fe
 
 | Desktop View | Mobile View |
 | :---: | :---: |
-| ![Desktop]
-(#![Screenshot 2025-04-28 151140](https://github.com/user-attachments/assets/5b1e0c07-f08f-48b3-b948-591dd598815e)) | ![Mobile](#![Screenshot 2025-04-28 151158](https://github.com/user-attachments/assets/69f45101-e693-40f2-9ae5-a01878ba8037)) | 
+|(#![Screenshot 2025-04-28 151140](https://github.com/user-attachments/assets/5b1e0c07-f08f-48b3-b948-591dd598815e)) | (#![Screenshot 2025-04-28 151158](https://github.com/user-attachments/assets/69f45101-e693-40f2-9ae5-a01878ba8037)) | 
 
 
 ---
