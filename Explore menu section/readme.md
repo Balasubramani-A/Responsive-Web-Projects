@@ -35,7 +35,7 @@ A responsive **Explore Menu** section designed for the Food Munch website. Built
 
 | Small Devices | Medium Devices | Large Devices |
 | :--: | :--: | :--: |
-| ![Phone](screenshots/small.png) | ![Tablet](screenshots/medium.png) | ![Desktop](screenshots/large.png) |
+| ![Screenshot 2025-04-29 123815](https://github.com/user-attachments/assets/cf46cbd6-65d4-4125-b50f-8ce508f09e10)|![Screenshot 2025-04-29 123830](https://github.com/user-attachments/assets/fbf3b574-25a6-43c7-b8e6-92e29f2216ec)| ![Screenshot 2025-04-29 123756](https://github.com/user-attachments/assets/2e4c365a-910d-4c1b-9d67-45f5311c8409)|
 
 ---
 
