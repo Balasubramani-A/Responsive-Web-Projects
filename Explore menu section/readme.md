@@ -40,7 +40,8 @@ A fully responsive website designed for a food delivery service. This update inc
 
 | Desktop View | Mobile View |
 | :---: | :---: |
-| ![Desktop](#) | ![Mobile](#) | <!-- Add screenshot URLs if available -->
+| ![Screenshot 2025-04-29 102925](https://github.com/user-attachments/assets/9a0acb2f-a775-45c6-8de6-5e342c222478) | ![Screenshot 2025-04-29 102956](https://github.com/user-attachments/assets/e2859356-e40d-480c-a99d-0abeb4fab244)| <!-- Add screenshot URLs if available -->
+
 
 ---
 
