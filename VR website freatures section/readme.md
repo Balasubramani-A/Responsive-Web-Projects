@@ -35,7 +35,7 @@ A clean and responsive **Features section** built for a VR-themed webpage. This 
 
 | Small Devices | Medium Devices | Large Devices |
 | :--: | :--: | :--: |
-| ![Small](screenshots/small.png) | ![Medium](screenshots/medium.png) | ![Large](screenshots/large.png) |
+| ![Screenshot 2025-04-30 141946](https://github.com/user-attachments/assets/72dff0b7-cc6f-4a56-83b0-d4ff11bec985) |![Screenshot 2025-04-30 142012](https://github.com/user-attachments/assets/c352dd4f-8b4a-448a-9c57-03b0f6731fbf) | ![Screenshot 2025-04-30 142012](https://github.com/user-attachments/assets/c352dd4f-8b4a-448a-9c57-03b0f6731fbf)|
 
 ---
 
