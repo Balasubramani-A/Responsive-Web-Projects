@@ -10,13 +10,15 @@ This is the **Included VR Kit** section of the VR Website. It displays the items
 
 ### Mobile View
 
-![Mobile View](screenshots/vr-kit-mobile.png)
+![Screenshot 2025-04-30 155730](https://github.com/user-attachments/assets/49b05747-300a-4a87-968a-9d8dfdc5603d)
+
 
 ---
 
 ### Desktop View
 
-![Desktop View](screenshots/vr-kit-desktop.png)
+![Screenshot 2025-04-30 155740](https://github.com/user-attachments/assets/773b0bbb-5785-45ee-a4f1-b2362f4499f4)
+
 
 ---
 
