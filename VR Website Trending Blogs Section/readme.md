@@ -27,9 +27,10 @@ A visually engaging and responsive **"Trending Blogs" section** built using Boot
 
 | Mobile View | Desktop View |
 |-------------|--------------|
-| ![Mobile View](https://github.com/user-attachments/assets/28b446cf-2f2f-4d7b-a54d-45dc15578526) | ![Desktop View](https://github.com/user-attachments/assets/cc87c57e-d210-4e4e-81be-b8258f30902c) |
+| ![Screenshot 2025-06-03 163016](https://github.com/user-attachments/assets/f47ea6a8-c997-4971-be33-a4ee12034763)| ![Screenshot 2025-06-03 163030](https://github.com/user-attachments/assets/7c217be5-579f-4ae3-9729-17eccc9337eb) |
 
 ---
+
 
 
 
