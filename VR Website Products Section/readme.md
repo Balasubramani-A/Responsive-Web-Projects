@@ -28,7 +28,8 @@ A modern and responsive **"Products" section** for a VR-themed webpage built wit
 
 | Mobile View | Desktop View |
 |-------------|--------------|
-| ![Mobile View](https://github.com/user-attachments/assets/91c2c7e4-3f9f-4e58-95c4-4a123b2c837f) | ![Desktop View](https://github.com/user-attachments/assets/b28e6d47-44a1-41bb-a2f3-b9de4532c7f0) |
+| ![Screenshot 2025-06-03 164715](https://github.com/user-attachments/assets/99156b97-7e64-4585-b108-562611dbfd04)  ![Screenshot 2025-06-03 164729](https://github.com/user-attachments/assets/06c1cff9-5dd7-455b-b95f-77b1c3f6a7cc)| ![Screenshot 2025-06-03 164753](https://github.com/user-attachments/assets/2fdfde72-f59f-46a4-8c4c-54dd010ea923)|
 
 ---
+
 
