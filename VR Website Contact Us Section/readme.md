@@ -27,9 +27,11 @@ A clean, responsive **"Contact Us" section** built with Bootstrap for a VR-theme
 
 | Mobile View | Desktop View |
 |-------------|--------------|
-| ![Mobile View](https://github.com/user-attachments/assets/51c3e242-7a68-4b56-8784-17218c30f64d) | ![Desktop View](https://github.com/user-attachments/assets/3e68190b-8cf7-4120-88f4-b1b6cbb85c4f) |
+|![Screenshot 2025-06-03 152217](https://github.com/user-attachments/assets/28b446cf-2f2f-4d7b-a54d-45dc15578526)
+ |![Screenshot 2025-06-03 152228](https://github.com/user-attachments/assets/cc87c57e-d210-4e4e-81be-b8258f30902c)
+ |
 
 ---
 
-## 📁 Folder Structure
+
 
