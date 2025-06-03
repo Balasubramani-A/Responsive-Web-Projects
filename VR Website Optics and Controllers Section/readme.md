@@ -36,8 +36,8 @@ A responsive and modern section built for a VR-themed webpage, showcasing **Impr
 
 | Mobile View | Desktop View |
 | :--: | :--: |
-| ![Mobile Screenshot](![Screenshot 2025-06-03 134030](https://github.com/user-attachments/assets/f80252fa-2247-4356-a45f-c9737ff4095e)
-![Screenshot 2025-06-03 134045](https://github.com/user-attachments/assets/d39022bf-ac93-4892-a51a-df62a5a51f5b) | ![Desktop Screenshot](![Screenshot 2025-06-03 134102](https://github.com/user-attachments/assets/4ed08923-8053-4564-bd36-892b8331b589) |
+| ![Screenshot 2025-06-03 134030](https://github.com/user-attachments/assets/f80252fa-2247-4356-a45f-c9737ff4095e)
+![Screenshot 2025-06-03 134045](https://github.com/user-attachments/assets/d39022bf-ac93-4892-a51a-df62a5a51f5b)| ![Screenshot 2025-06-03 134102](https://github.com/user-attachments/assets/4ed08923-8053-4564-bd36-892b8331b589) |
 
 ---
 
