@@ -38,11 +38,11 @@ A responsive **Projects Section** designed for a personal portfolio website. Thi
 
 | Mobile View | Desktop View |
 |-------------|--------------|
-| ![Mobile View](https://github.com/user-attachments/assets/your-mobile-img-url) | ![Desktop View](https://github.com/user-attachments/assets/your-desktop-img-url) |
+| ![Screenshot 2025-06-09 171003](https://github.com/user-attachments/assets/371a79e7-7328-4c43-9072-944c03b9d718) ![Screenshot 2025-06-09 171014](https://github.com/user-attachments/assets/93c88874-014c-4688-82df-43392968f500)| ![Screenshot 2025-06-09 171029](https://github.com/user-attachments/assets/79ae253e-8c30-4680-a666-384567ee496a)|
 
-> _Replace the image links above with your actual screenshots._
+
 
 ---
 
-## 📁 Folder Structure
+
 
