@@ -38,9 +38,9 @@ A sleek, responsive **Navbar & Banner** section designed for a personal portfoli
 
 | Mobile View | Desktop View |
 |-------------|--------------|
-| ![Mobile View](https://github.com/user-attachments/assets/your-mobile-img-url) | ![Desktop View](https://github.com/user-attachments/assets/your-desktop-img-url) |
+|![Screenshot 2025-06-09 131039](https://github.com/user-attachments/assets/3e009679-7036-4d31-8631-be74ba2cfe9f)|![Screenshot 2025-06-09 131134](https://github.com/user-attachments/assets/a355e765-16cc-4528-b384-a64e132ae514) |
 
->
+
 
 ---
 
