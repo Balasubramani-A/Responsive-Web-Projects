@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-container {
+    background-color: #19232d;
+    color: #959ead;
+}
+
+.vr-image-size {
+    height: 36px;
+    width: 56px;
+}
+
+.image-icons-container {}
+
+.vr-footer-image {
+    height: 50px;
+    width: 60px;
+}
+
+.icons-container {
+    margin-right: 8px;
+    margin-bottom: 8px;
+    background-color: #202b36;
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 30px;
+}
+
+.address-paragraph {
+    font-size: 20px;
+}
+
+.contact-us-section-heading {
+    font-size: 30px;
+    font-style: bold;
+}
+
+.contact-us-section-icon {
+    font-size: 20px;
+    padding: 8px;
+}
+
+.contact-us-paragraph {
+    font-size: 20px;
+}
+
+.let-us-help-you-section-paragraph {
+    font-size: 20px;
+}
+
+.hr-line {
+    background-color: #959ead;
+}
+
+.copyright-icons {
+    font-size: 30px;
+}
+
+.copyright-paragraph {
+    font-size: 20px;
+}
+
+.vr-footer-section-list {
+    list-style-type: none;
+    padding-left: 0px;
+}
