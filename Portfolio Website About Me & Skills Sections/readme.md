@@ -31,10 +31,6 @@ This is a responsive "About Me" and "Skills" section for a personal portfolio we
 - Responsive layout for desktop and mobile
 - Skills representation using Bootstrap cards
 
----
-
-## 📁 Folder Structure
-
 
 ---
 
@@ -42,7 +38,7 @@ This is a responsive "About Me" and "Skills" section for a personal portfolio we
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop View](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-about-me-img.png) | *Add screenshot here* |
+| ![Screenshot 2025-06-09 165331](https://github.com/user-attachments/assets/d5b3bd58-f81b-4367-b4fe-4ac2db6298c9) | ![Screenshot 2025-06-09 165309](https://github.com/user-attachments/assets/974762bb-dd23-4f08-baa8-0103d00126af) ![Screenshot 2025-06-09 165316](https://github.com/user-attachments/assets/aaedd429-de80-4bac-b4f5-1897f29185ec)|
 
 ---
 
