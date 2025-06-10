@@ -38,9 +38,9 @@ A clean and responsive **Services Section** for a personal portfolio website. Th
 
 | Mobile View | Desktop View |
 |-------------|--------------|
-| ![Mobile View](https://github.com/user-attachments/assets/your-mobile-img-url) | ![Desktop View](https://github.com/user-attachments/assets/your-desktop-img-url) |
+| ![Screenshot 2025-06-10 115345](https://github.com/user-attachments/assets/5d49075a-cbc2-4465-9f28-f92511cc3945) | ![Screenshot 2025-06-10 115409](https://github.com/user-attachments/assets/bb09e451-dded-438b-ab5a-ee066cd868d7) |
 
-> Replace image URLs with actual screenshots of your section.
+
 
 ---
 
