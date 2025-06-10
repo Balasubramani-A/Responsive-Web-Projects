@@ -25,6 +25,7 @@ This project showcases the **Services Section** of an ecommerce website using **
 
 | Mobile View | Desktop View |
 |-------------|--------------|
-| ![Screenshot 2025-06-03 164715](https://github.com/user-attachments/assets/99156b97-7e64-4585-b108-562611dbfd04)  ![Screenshot 2025-06-03 164729](https://github.com/user-attachments/assets/06c1cff9-5dd7-455b-b95f-77b1c3f6a7cc)| ![Screenshot 2025-06-03 164753](https://github.com/user-attachments/assets/2fdfde72-f59f-46a4-8c4c-54dd010ea923)|
+| ![Screenshot 2025-06-10 170129](https://github.com/user-attachments/assets/9b1176f7-62cc-4a56-a6c9-c2cc35f2db59)| ![Screenshot 2025-06-10 170147](https://github.com/user-attachments/assets/8780b920-5674-4340-b948-bcecc77e0bbb)|
 
 ---
+
