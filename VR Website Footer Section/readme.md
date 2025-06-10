@@ -39,9 +39,7 @@ A professional and responsive **Footer Section** for a VR-themed website. This c
 
 | Mobile View | Desktop View |
 |-------------|--------------|
-| ![Screenshot 2025-06-09 113241](https://github.com/user-attachments/assets/f5efb3aa-d4e4-428b-ac2b-378751cfae8a) | ![Screenshot 2025-06-09 113205](https://github.com/user-attachments/assets/cfce28c3-596c-463a-bc0c-12a28538bb61)|
-
-
+| ![Screenshot 2025-06-10 132811](https://github.com/user-attachments/assets/0cf850be-1bf4-4a9a-849a-1c74d8d10818) | ![Screenshot 2025-06-10 132826](https://github.com/user-attachments/assets/957cfa5d-9f1b-4768-85f5-8f4ffeb63c31)|
 
 
 ---
