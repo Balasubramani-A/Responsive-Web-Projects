@@ -22,11 +22,9 @@ This section of the portfolio highlights key metrics about completed work such a
 - SVG Icons from Bootstrap Icons
 
 
-
-
-
-
 ## 📸 Preview
+
+![Screenshot 2025-06-10 120852](https://github.com/user-attachments/assets/036dd37a-5422-4fd6-8331-f96a23d939c7)
 
 > **Projects Completed**  
 > ![✓] - Shows how many projects are done.
