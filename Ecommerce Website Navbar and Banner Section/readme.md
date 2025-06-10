@@ -22,3 +22,5 @@ This project features a responsive **navigation bar** and **carousel banner** fo
 
 ## 🖥️ Live view
 
+https://github.com/user-attachments/assets/c423947b-1710-4f17-9836-8b99bb97d73c
+
