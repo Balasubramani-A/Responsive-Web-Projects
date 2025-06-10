@@ -20,6 +20,7 @@ This is a responsive **Testimonials Section** designed for a personal or profess
 
 ## 📷 Preview
 
-![Testimonial Example](https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-testimonials-1-img.png)
+https://github.com/user-attachments/assets/33b9d399-6ae0-4dfd-a9a2-43407b74f8c7
+
 
 
