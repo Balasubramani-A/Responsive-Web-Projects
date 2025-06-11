@@ -43,9 +43,13 @@ A clean and responsive **Products** section for an ecommerce website. Built with
 
 | Mobile View | Desktop View |
 |-------------|--------------|
-| https://github.com/user-attachments/assets/afcd3f18-ef56-4fda-a2a5-3db33fce62d2 | |
+|[ https://github.com/user-attachments/assets/afcd3f18-ef56-4fda-a2a5-3db33fce62d2](https://github.com/user-attachments/assets/b0cb0ecc-023e-4a10-8290-4f4f1f648bb2) | |
 
 ---
+
+
+
+
 
 
 
