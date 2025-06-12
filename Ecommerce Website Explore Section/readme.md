@@ -46,6 +46,6 @@ A clean and responsive **Explore Deals & Offers** section for an ecommerce platf
 
 | Mobile View | Desktop View |
 |-------------|--------------|
-| ![Mobile](https://github.com/user-attachments/assets/sample-mobile-explore) | ![Desktop](https://github.com/user-attachments/assets/sample-desktop-explore) |
+| ![Screenshot 2025-06-12 132301](https://github.com/user-attachments/assets/08d8813b-f646-4b23-94d4-14212113a744) ![Screenshot 2025-06-12 132313](https://github.com/user-attachments/assets/8463472a-f598-4185-9c8e-65853fa032b0) ![Screenshot 2025-06-12 132325](https://github.com/user-attachments/assets/6fd65e91-edbd-40f3-b718-2b1bcb5707d9)| ![Screenshot 2025-06-12 132357](https://github.com/user-attachments/assets/2f8ab6eb-0ba2-468b-9222-ca8b5203dafe) |
 
 ---
