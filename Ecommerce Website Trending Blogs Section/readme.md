@@ -45,6 +45,9 @@ A beautifully designed and responsive **Trending Blogs** section for an ecommerc
 
 | Mobile View | Desktop View |
 |-------------|--------------|
-| ![Mobile View](https://github.com/user-attachments/assets/sample-mobile-blog) | ![Desktop View](https://github.com/user-attachments/assets/sample-desktop-blog) |
+|![Screenshot 2025-06-12 115719](https://github.com/user-attachments/assets/3f14c0b5-32e5-4b74-8861-38cc604551b7) ![Screenshot 2025-06-12 115732](https://github.com/user-attachments/assets/4e6f63ef-470a-4d56-9e6d-d45e5b00ad3f)| ![Screenshot 2025-06-12 115745](https://github.com/user-attachments/assets/e1441c75-f63d-4b56-bb21-463af9a2ede9) |
 
 ---
+
+
+
