@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background-container {
+    background-color: white;
+}
+
+.trend-blogs-heading {
+    color: #183b56;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.card-background {
+    background-color: white;
+
+}
+
+.card-image {
+
+    width: 100%;
+    background-size: cover;
+}
+
+.card-heading {
+    font-size: 30px;
+    color: #183b56;
+    font-weight: bold;
+}
+
+.card-paragraph {
+    font-size: 22px;
+    color: #959ead;
+
+}
+
+.read-more {
+    color: orange;
+    font-weight: bold;
+    font-size: 12px;
+}
